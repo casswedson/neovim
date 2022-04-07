@@ -38,7 +38,8 @@
   - src/nvim/mouse*
 
 "documentation":
-  - all: ["runtime/doc/*"]
+  - "**/*.md"
+  - runtime/doc/*
 
 "clipboard":
   - runtime/autoload/provider/clipboard.vim
