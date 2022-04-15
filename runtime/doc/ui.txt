@@ -1,6 +1,5 @@
 *ui.txt*	Nvim
 
-
 			    NVIM REFERENCE MANUAL
 
 

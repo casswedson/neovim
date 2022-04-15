@@ -3,7 +3,6 @@
 #
 # If you get "don't know how to make scratch", first run make in the source
 # directory.  Or remove the include below.
-
 AWK = awk
 
 DOCS = $(wildcard *.txt)
