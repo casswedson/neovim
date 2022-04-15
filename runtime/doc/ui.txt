@@ -3,7 +3,6 @@
 
 			    NVIM REFERENCE MANUAL
 
-
 Nvim UI protocol					*UI* *ui*
 
                                       Type |gO| to see the table of contents.
