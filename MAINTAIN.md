@@ -1,6 +1,5 @@
 Maintaining the Neovim project
 ==============================
-
 Notes on maintaining the Neovim project.
 
 General guidelines
