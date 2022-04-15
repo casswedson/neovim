@@ -1,5 +1,4 @@
 require('vim.compat')
-
 local buf_hls = {}
 
 local function highlight_line(line, linenr)
