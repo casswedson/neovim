@@ -1,5 +1,4 @@
 -- Configuration file for LuaCov
-
 local source = require("lfs").currentdir()
 
 local function pesc(s)

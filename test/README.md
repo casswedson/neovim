@@ -1,6 +1,5 @@
 Tests
 =====
-
 Tests are broadly divided into *unit tests* ([test/unit](https://github.com/neovim/neovim/tree/master/test/unit/)),
 *functional tests* ([test/functional](https://github.com/neovim/neovim/tree/master/test/functional/)),
 and *old tests* ([src/nvim/testdir/](https://github.com/neovim/neovim/tree/master/src/nvim/testdir/)).
